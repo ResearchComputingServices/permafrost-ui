@@ -23,6 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 debug.log
 
-/src/client-configurations.js
 /src/__snapshots__
 
