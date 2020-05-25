@@ -1,0 +1,278 @@
+.top-nav {
+    background: white;
+}
+
+.top-nav-item {
+    color: white;
+    background: gray;
+    margin: 15px;
+}
+
+.top-nav-item:hover {
+    color: white;
+    background: gray;
+    margin: 15px;
+}
+
+.top-nav-selected-item {
+    color: white;
+    background: #34aeeb;
+    margin: 15px;
+}
+
+.top-nav-selected-item:hover {
+    color: white;
+    background: #34aeeb;
+    margin: 15px;
+}
+
+.link {
+    margin-left: 10px;
+    color: black;
+}
+
+.comment-link {
+    font-size: 10px;
+    margin-left: 25px
+}
+
+.left-margin {
+    margin-left: 20px;
+}
+
+.table {
+    border: 1px solid black;
+}
+
+.delimiter {
+    background: #34aeeb;
+    height: 3px;
+}
+
+.maps-marker-text {
+    color: red;
+}
+
+.carleton-university-logo {
+    margin-left: 15px
+}
+
+.carleton-central {
+    margin-top: 15px;
+    margin-left: 20px;
+    background: #34aeeb;
+    color: white;
+    font-size: 40px
+}
+
+.top-banner {
+    background: #34aeeb;
+}
+
+.copyright {
+    margin-top: 30px;
+    font-size: 13px;
+}
+
+.logged-in-user {
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.map-markers-table {
+    margin-top: 10px
+}
+
+.center-group {
+    text-align: left;
+    background: #f2f2f2;
+    margin-left: 0px
+}
+
+.center-input {
+    width: 150px
+}
+
+.center-zoom {
+    width: 50px
+}
+
+.center-left-margin {
+    margin-left: 10px
+}
+
+.center-update-button {
+    margin-left: 10px;
+    margin-bottom: 10px
+}
+
+.marker-group {
+    text-align: left;
+    background: #f2f2f2;
+    margin-left: 10px
+}
+
+.marker-input {
+    width: 150px
+}
+
+.marker-name {
+    width: 200px
+}
+
+.marker-left-margin {
+    margin-left: 10px
+}
+
+.marker-top-margin {
+    margin-top: 10px
+}
+
+.active-button {
+    background-color: #34aeeb !important;
+    color: white !important;
+    outline: none !important;
+}
+
+.inactive-button {
+    background-color: grey !important;
+    color: white !important;
+    outline: none !important;
+}
+
+.headline-selector {
+    margin-left: 10px;
+    background: #f2f2f2
+}
+
+.top-margin {
+    margin-top: 10px
+}
+
+.search-on {
+    margin-left: 10px;
+    background: #34aeeb;
+    color: white
+}
+
+.search-off {
+    margin-left: 10px
+}
+
+.choose-observation {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.overly-maps-name {
+    width: 200px
+}
+
+.overly-maps-left-margin {
+    margin-left: 10px
+}
+
+.overly-maps-top-margin {
+    margin-top: 10px
+}
+
+.overly-maps-image-file {
+    width: 300px
+}
+
+.overly-maps-active {
+    width: 50px
+}
+
+.users-left-margin {
+    margin-left: 10px
+}
+
+.left-margin {
+    margin-left: 10px
+}
+
+.marker-manager-collapsible-container {
+    display: flex !important;
+    justify-content: center !important;
+    padding-bottom: 8px !important;
+}
+
+.marker-manager-collapsible-expansion-panel {
+    width: 95% !important;
+}
+
+.marker-manager-collapsible-expansion-panel-details {
+    margin-top: -15px !important;
+}
+
+.marker-manager-container {
+    display: flex !important;
+    flex-direction: column !important;
+    flex-wrap: wrap !important;
+}
+
+.marker-manager-fields {
+    padding: 5px !important;
+}
+
+.marker-manager-button {
+    color: white !important;
+    margin-top: 20px !important;
+    margin-right: 10px !important;
+}
+
+.marker-manager-checkbox-field {
+    margin-top: 20px !important;
+}
+
+.marker-manager-checkbox-field-label {
+    font-size: 12px !important;
+}
+
+.marker-manager-form-section {
+    display: flex !important;
+    flex-direction: center !important;
+}
+
+.borehole-profile-container {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-end
+}
+
+.depth-only-observation-chart {
+    display: flex;
+    justify-content: center
+}
+
+.borehole-profile-range-refresh-btn {
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+}
+
+.borehole-profile-range-input {
+    width: 40px;
+    margin-left: 10px !important;
+}
+
+.depth-only-observations-control-panel {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+
+.placeholder-text {
+    color: rgba(0,0,0,0.5);
+}
+
+.active-button-color {
+    background-color:  #34aeeb !important;
+}
